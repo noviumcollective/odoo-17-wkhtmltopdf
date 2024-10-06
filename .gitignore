@@ -1,5 +1,7 @@
+.DS_Store
 postgresql/
 etc/odoo-server.log
 etc/addons/
 etc/sessions/
 etc/filestore/
+__pycache__
